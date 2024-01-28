@@ -1,6 +1,6 @@
 # FedDWA: Personalized Federated Learning with Dynamic Weight Adjustmnet
 This repository is for the paper:
-> FedDWA: Personalized Federated Learning with Dynamic Weight Adjustmnet\
+> [FedDWA: Personalized Federated Learning with Dynamic Weight Adjustmnet](https://ijcai.org/proceedings/2023/444)\
 Jiahao Liu, Jiang Wu, Jinyu Chen, Miao Hu, Yipeng Zhou, Di Wu.\
 IJCAI 2023
 
