@@ -15,4 +15,4 @@ in the original paper.
 While for CINIC-10 and Tiny-ImageNet datasets, you may need to download these datasets
 by yourself. You can download these datasets from the following websites:
 > https://kaggle.com/datasets/mengcius/cinic10 \
-https://kaggle.com/competitions/tiny-imagenet/overview
+http://cs231n.stanford.edu/tiny-imagenet-200.zip
